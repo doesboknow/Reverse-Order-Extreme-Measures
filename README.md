@@ -18,10 +18,9 @@ Requirements:
 - the latest version of ModUtil ([GitHub](https://github.com/SGG-Modding/ModUtil) for latest, [Nexus](https://www.nexusmods.com/hades/mods/27) for convenience)
 - the latest version of Mod Importer ([GitHub](https://github.com/SGG-Modding/ModImporter) for latest, [Nexus](https://www.nexusmods.com/hades/mods/26) for convenience)
 
-How to Install:
+How to Install (similar process to all Mod Importer & ModUtil mods):
 
-- Similar process to all Mod Importer & ModUtil mods.
-- Unzip/extract the source code "Reverse-Order-Extreme-Measures.zip"
+- Unzip/extract the zipped folder.
 - Copy/move the entire "ReverseOrderEM" folder inside the "Content/Mods" folder set up using Mod Importer.
 - The mod can be enabled & disabled without rerunning Mod Importer by opening "ReverseOrderEM/ReverseOrderEM.lua" in Notepad or other applications, and changing the ReverseOrderEMEnabled variable between true and false.
 
