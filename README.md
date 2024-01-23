@@ -1,4 +1,4 @@
-# Reverse-Order-Extreme-Measures
+# Reverse Order Extreme Measures
 
 Each Extreme Measures pact level will affect bosses in reverse order.
 
@@ -20,9 +20,9 @@ Requirements:
 
 How to Install (similar process to all Mod Importer & ModUtil mods):
 
-- Unzip/extract the zipped folder.
+- Unzip/extract the zipped folder(s), there should be a regular, unzipped "ReverseOrderEM" folder if done correctly.
 - Copy/move the entire "ReverseOrderEM" folder inside the "Content/Mods" folder set up using Mod Importer.
-- The mod can be enabled & disabled without rerunning Mod Importer by opening "ReverseOrderEM/ReverseOrderEM.lua" in Notepad or other applications, and changing the ReverseOrderEMEnabled variable between true and false.
+- The mod can be enabled & disabled without rerunning Mod Importer by opening "ReverseOrderEM/ReverseOrderEM.lua" in Notepad or other applications, and changing the "ReverseOrderEMEnabled" variable between true and false.
 
 Bugs/Issues:
 
