@@ -1,0 +1,5 @@
+Import ReverseOrderEM.lua
+
+::Enable the below if I can get CostTable to reverse properly.
+::To "Scripts/MetaUpgradeData.lua"
+::Import "ReverseOrderEM/Data/MetaUpgradeData.lua"
