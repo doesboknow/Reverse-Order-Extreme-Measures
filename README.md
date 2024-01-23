@@ -20,7 +20,9 @@ Requirements:
 
 How to Install:
 
-- Similar process to all Mod Importer & ModUtil mods. Drag the "ReverseOrderEM" folder into the "Content/Mods" folder set up using Mod Importer.
+- Similar process to all Mod Importer & ModUtil mods.
+- Unzip/extract the source code "Reverse-Order-Extreme-Measures.zip"
+- Copy/move the entire "ReverseOrderEM" folder inside the "Content/Mods" folder set up using Mod Importer.
 - The mod can be enabled & disabled without rerunning Mod Importer by opening "ReverseOrderEM/ReverseOrderEM.lua" in Notepad or other applications, and changing the ReverseOrderEMEnabled variable between true and false.
 
 Bugs/Issues:
